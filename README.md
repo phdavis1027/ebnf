@@ -259,6 +259,7 @@ See [Release Notes on GitHub](https://github.com/dryruby/ebnf/releases)
 
 ## Author
 * [Gregg Kellogg](https://github.com/gkellogg) - <https://greggkellogg.net/>
+* [Phillip Davis](https://github.com/phdavis1027)
 
 ## Contributing
 This repository uses [Git Flow](https://github.com/nvie/gitflow) to mange development and release activity. All submissions _must_ be on a feature branch based on the _develop_ branch to ease staging and integration.
